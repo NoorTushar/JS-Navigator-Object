@@ -12,3 +12,5 @@ document.write("language : " + navigator.language + "<br/>");
 document.write("onLine : " + navigator.onLine + "<br/>");
 document.write("javaEnabled() : " + navigator.javaEnabled() + "<br/>");
 ```
+
+![Alt text](image.png)
